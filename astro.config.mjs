@@ -33,6 +33,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://site.com',
+	site: 'https://probegcentr.alexsab.ru',
 	base: "/"
 });
